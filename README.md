@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby and TypeScript Starter
+  Gatsby and TypeScript Starter Redux
 </h1>
 
 Gatsby Default Boilerplate with TS configuration
